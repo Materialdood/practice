@@ -1,7 +1,3 @@
-// Daniel Shiffman
-// http://codingtra.in
-// http://patreon.com/codingtrain
-// Code for this video: https://youtu.be/Cl_Gjj80gPE
 
 function Walker(x, y) {
   if (arguments.length == 2) {
